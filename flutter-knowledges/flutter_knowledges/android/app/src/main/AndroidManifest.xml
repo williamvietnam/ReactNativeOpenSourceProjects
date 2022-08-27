@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nbgsoftware.basic">
+    package="com.knowledges.flutter_knowledges">
    <application
-        android:label="basic"
+        android:label="flutter_knowledges"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

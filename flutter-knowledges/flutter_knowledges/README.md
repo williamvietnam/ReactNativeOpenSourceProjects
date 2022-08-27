@@ -1,6 +1,6 @@
-# basic
+# flutter_knowledges
 
-A new Flutter project.
+Flutter project training
 
 ## Getting Started
 
