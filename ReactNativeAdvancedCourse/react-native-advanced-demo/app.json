@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-advanced-demo",
+    "slug": "react-native-advanced-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-advanced-demo"
+}
