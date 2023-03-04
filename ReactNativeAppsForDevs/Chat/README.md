@@ -1,0 +1,1 @@
+https://github.com/cometchat-pro/react-native-chat-app
