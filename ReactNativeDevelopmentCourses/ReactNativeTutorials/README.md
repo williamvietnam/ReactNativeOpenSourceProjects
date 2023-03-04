@@ -1,1 +1,0 @@
-ReactNative Applications for Developers
