@@ -1,2 +1,0 @@
-# ReactNative_ProjectBase
-
